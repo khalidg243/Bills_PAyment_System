@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Client\bin\Debug\net7.0\BPS_Client.deps.json
+C:\Users\hp\source\repos\Client\bin\Debug\net7.0\BPS_Client.dll
+C:\Users\hp\source\repos\Client\bin\Debug\net7.0\BPS_Client.pdb
+C:\Users\hp\source\repos\Client\bin\Debug\net7.0\BPS_Shared.dll
+C:\Users\hp\source\repos\Client\bin\Debug\net7.0\BPS_Shared.pdb
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.AssemblyInfo.cs
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.csproj.CopyComplete
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.dll
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\refint\BPS_Client.dll
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\BPS_Client.pdb
+C:\Users\hp\source\repos\Client\obj\Debug\net7.0\ref\BPS_Client.dll
